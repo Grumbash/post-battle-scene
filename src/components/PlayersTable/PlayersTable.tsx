@@ -21,8 +21,8 @@ export const PlayersTable = ({ team1, team2 }: TableProps) => {
         >
           {getFullTitle(team1.title, team1.isWinners)}
         </h2>
-        {team1.players.map((player) => (
-          <PlayerRow key={player.id} player={player} />
+        {team1.players.map((player, index) => (
+          <PlayerRow key={player.id} player={player} delay={index * 0.05} />
         ))}
       </div>
       <div className="team-column">
@@ -31,8 +31,8 @@ export const PlayersTable = ({ team1, team2 }: TableProps) => {
         >
           {getFullTitle(team2.title, team2.isWinners)}
         </h2>
-        {team2.players.map((player) => (
-          <PlayerRow key={player.id} player={player} />
+        {team2.players.map((player, index) => (
+          <PlayerRow key={player.id} player={player} delay={index * 0.05} />
         ))}
       </div>
     </>
