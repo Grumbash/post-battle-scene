@@ -1,0 +1,812 @@
+{
+  "team1": {
+    "title": "Team1",
+    "isWinners": true,
+    "players": [
+    {
+      "nickname": "Player1",
+      "score": 1783,
+      "status": "Alive",
+      "kills": 19,
+      "deaths": 6,
+      "id": 1
+    },
+    {
+      "nickname": "Player2",
+      "score": 1004,
+      "status": "Dead",
+      "kills": 13,
+      "deaths": 1,
+      "id": 2
+    },
+    {
+      "nickname": "Player3",
+      "score": 1787,
+      "status": "Alive",
+      "kills": 6,
+      "deaths": 4,
+      "id": 3
+    },
+    {
+      "nickname": "Player4",
+      "score": 1502,
+      "status": "Dead",
+      "kills": 15,
+      "deaths": 1,
+      "id": 4
+    },
+    {
+      "nickname": "Player5",
+      "score": 2332,
+      "status": "Dead",
+      "kills": 15,
+      "deaths": 9,
+      "id": 5
+    },
+    {
+      "nickname": "Player6",
+      "score": 1604,
+      "status": "Dead",
+      "kills": 5,
+      "deaths": 1,
+      "id": 6
+    },
+    {
+      "nickname": "Player7",
+      "score": 2432,
+      "status": "Dead",
+      "kills": 14,
+      "deaths": 2,
+      "id": 7
+    },
+    {
+      "nickname": "Player8",
+      "score": 2324,
+      "status": "Dead",
+      "kills": 19,
+      "deaths": 0,
+      "id": 8
+    },
+    {
+      "nickname": "Player9",
+      "score": 1357,
+      "status": "Alive",
+      "kills": 19,
+      "deaths": 5,
+      "id": 9
+    },
+    {
+      "nickname": "Player10",
+      "score": 1340,
+      "status": "Alive",
+      "kills": 1,
+      "deaths": 8,
+      "id": 10
+    },
+    {
+      "nickname": "Player11",
+      "score": 2306,
+      "status": "Alive",
+      "kills": 1,
+      "deaths": 7,
+      "id": 11
+    },
+    {
+      "nickname": "Player12",
+      "score": 2278,
+      "status": "Alive",
+      "kills": 11,
+      "deaths": 6,
+      "id": 12
+    },
+    {
+      "nickname": "Player13",
+      "score": 2234,
+      "status": "Dead",
+      "kills": 8,
+      "deaths": 8,
+      "id": 13
+    },
+    {
+      "nickname": "Player14",
+      "score": 2275,
+      "status": "Dead",
+      "kills": 15,
+      "deaths": 4,
+      "id": 14
+    },
+    {
+      "nickname": "Player15",
+      "score": 1456,
+      "status": "Dead",
+      "kills": 2,
+      "deaths": 4,
+      "id": 15
+    },
+    {
+      "nickname": "Player16",
+      "score": 2812,
+      "status": "Dead",
+      "kills": 9,
+      "deaths": 8,
+      "id": 16
+    },
+    {
+      "nickname": "Player17",
+      "score": 1213,
+      "status": "Alive",
+      "kills": 6,
+      "deaths": 4,
+      "id": 17
+    },
+    {
+      "nickname": "Player18",
+      "score": 2179,
+      "status": "Dead",
+      "kills": 7,
+      "deaths": 5,
+      "id": 18
+    },
+    {
+      "nickname": "Player19",
+      "score": 1326,
+      "status": "Alive",
+      "kills": 10,
+      "deaths": 9,
+      "id": 19
+    },
+    {
+      "nickname": "Player20",
+      "score": 1956,
+      "status": "Alive",
+      "kills": 3,
+      "deaths": 6,
+      "id": 20
+    },
+    {
+      "nickname": "Player21",
+      "score": 1086,
+      "status": "Alive",
+      "kills": 3,
+      "deaths": 0,
+      "id": 21
+    },
+    {
+      "nickname": "Player22",
+      "score": 1778,
+      "status": "Dead",
+      "kills": 10,
+      "deaths": 3,
+      "id": 22
+    },
+    {
+      "nickname": "Player23",
+      "score": 1580,
+      "status": "Alive",
+      "kills": 2,
+      "deaths": 6,
+      "id": 23
+    },
+    {
+      "nickname": "Player24",
+      "score": 2574,
+      "status": "Alive",
+      "kills": 7,
+      "deaths": 9,
+      "id": 24
+    },
+    {
+      "nickname": "Player25",
+      "score": 1038,
+      "status": "Dead",
+      "kills": 1,
+      "deaths": 6,
+      "id": 25
+    },
+    {
+      "nickname": "Player26",
+      "score": 2681,
+      "status": "Dead",
+      "kills": 9,
+      "deaths": 3,
+      "id": 26
+    },
+    {
+      "nickname": "Player27",
+      "score": 1636,
+      "status": "Dead",
+      "kills": 10,
+      "deaths": 6,
+      "id": 27
+    },
+    {
+      "nickname": "Player28",
+      "score": 1961,
+      "status": "Alive",
+      "kills": 1,
+      "deaths": 5,
+      "id": 28
+    },
+    {
+      "nickname": "Player29",
+      "score": 2992,
+      "status": "Dead",
+      "kills": 19,
+      "deaths": 7,
+      "id": 29
+    },
+    {
+      "nickname": "Player30",
+      "score": 1776,
+      "status": "Alive",
+      "kills": 1,
+      "deaths": 1,
+      "id": 30
+    },
+    {
+      "nickname": "Player31",
+      "score": 2324,
+      "status": "Alive",
+      "kills": 3,
+      "deaths": 9,
+      "id": 31
+    },
+    {
+      "nickname": "Player32",
+      "score": 2025,
+      "status": "Alive",
+      "kills": 19,
+      "deaths": 9,
+      "id": 32
+    },
+    {
+      "nickname": "Player33",
+      "score": 2385,
+      "status": "Dead",
+      "kills": 5,
+      "deaths": 7,
+      "id": 33
+    },
+    {
+      "nickname": "Player34",
+      "score": 1028,
+      "status": "Alive",
+      "kills": 7,
+      "deaths": 8,
+      "id": 34
+    },
+    {
+      "nickname": "Player35",
+      "score": 1154,
+      "status": "Alive",
+      "kills": 14,
+      "deaths": 6,
+      "id": 35
+    },
+    {
+      "nickname": "Player36",
+      "score": 1053,
+      "status": "Dead",
+      "kills": 3,
+      "deaths": 0,
+      "id": 36
+    },
+    {
+      "nickname": "Player37",
+      "score": 1629,
+      "status": "Alive",
+      "kills": 13,
+      "deaths": 3,
+      "id": 37
+    },
+    {
+      "nickname": "Player38",
+      "score": 2127,
+      "status": "Alive",
+      "kills": 15,
+      "deaths": 7,
+      "id": 38
+    },
+    {
+      "nickname": "Player39",
+      "score": 2022,
+      "status": "Dead",
+      "kills": 14,
+      "deaths": 8,
+      "id": 39
+    },
+    {
+      "nickname": "Player40",
+      "score": 1447,
+      "status": "Dead",
+      "kills": 6,
+      "deaths": 3,
+      "id": 40
+    },
+    {
+      "nickname": "Player41",
+      "score": 1941,
+      "status": "Dead",
+      "kills": 2,
+      "deaths": 4,
+      "id": 41
+    },
+    {
+      "nickname": "Player42",
+      "score": 1070,
+      "status": "Alive",
+      "kills": 6,
+      "deaths": 8,
+      "id": 42
+    },
+    {
+      "nickname": "Player43",
+      "score": 2203,
+      "status": "Alive",
+      "kills": 3,
+      "deaths": 0,
+      "id": 43
+    },
+    {
+      "nickname": "Player44",
+      "score": 1114,
+      "status": "Alive",
+      "kills": 19,
+      "deaths": 5,
+      "id": 44
+    },
+    {
+      "nickname": "Player45",
+      "score": 1673,
+      "status": "Dead",
+      "kills": 1,
+      "deaths": 6,
+      "id": 45
+    },
+    {
+      "nickname": "Player46",
+      "score": 2758,
+      "status": "Alive",
+      "kills": 4,
+      "deaths": 7,
+      "id": 46
+    },
+    {
+      "nickname": "Player47",
+      "score": 1531,
+      "status": "Dead",
+      "kills": 8,
+      "deaths": 0,
+      "id": 47
+    },
+    {
+      "nickname": "Player48",
+      "score": 2419,
+      "status": "Dead",
+      "kills": 0,
+      "deaths": 6,
+      "id": 48
+    },
+    {
+      "nickname": "Player49",
+      "score": 1615,
+      "status": "Alive",
+      "kills": 4,
+      "deaths": 7,
+      "id": 49
+    },
+    {
+      "nickname": "Player50",
+      "score": 1395,
+      "status": "Alive",
+      "kills": 5,
+      "deaths": 8,
+      "id": 50
+    }
+  ]},
+  "team2": {
+    "title": "Team2",
+    "isWinners": false,
+    "players": [
+    {
+      "nickname": "Player51",
+      "score": 1890,
+      "status": "Alive",
+      "kills": 19,
+      "deaths": 0,
+      "id": 51
+    },
+    {
+      "nickname": "Player52",
+      "score": 2022,
+      "status": "Dead",
+      "kills": 16,
+      "deaths": 5,
+      "id": 52
+    },
+    {
+      "nickname": "Player53",
+      "score": 1886,
+      "status": "Dead",
+      "kills": 14,
+      "deaths": 7,
+      "id": 53
+    },
+    {
+      "nickname": "Player54",
+      "score": 2083,
+      "status": "Alive",
+      "kills": 18,
+      "deaths": 5,
+      "id": 54
+    },
+    {
+      "nickname": "Player55",
+      "score": 1667,
+      "status": "Alive",
+      "kills": 9,
+      "deaths": 2,
+      "id": 55
+    },
+    {
+      "nickname": "Player56",
+      "score": 1234,
+      "status": "Dead",
+      "kills": 7,
+      "deaths": 7,
+      "id": 56
+    },
+    {
+      "nickname": "Player57",
+      "score": 2989,
+      "status": "Alive",
+      "kills": 10,
+      "deaths": 4,
+      "id": 57
+    },
+    {
+      "nickname": "Player58",
+      "score": 2735,
+      "status": "Dead",
+      "kills": 0,
+      "deaths": 0,
+      "id": 58
+    },
+    {
+      "nickname": "Player59",
+      "score": 1762,
+      "status": "Dead",
+      "kills": 5,
+      "deaths": 6,
+      "id": 59
+    },
+    {
+      "nickname": "Player60",
+      "score": 1393,
+      "status": "Alive",
+      "kills": 8,
+      "deaths": 4,
+      "id": 60
+    },
+    {
+      "nickname": "Player61",
+      "score": 1545,
+      "status": "Alive",
+      "kills": 19,
+      "deaths": 3,
+      "id": 61
+    },
+    {
+      "nickname": "Player62",
+      "score": 1570,
+      "status": "Dead",
+      "kills": 9,
+      "deaths": 3,
+      "id": 62
+    },
+    {
+      "nickname": "Player63",
+      "score": 2209,
+      "status": "Alive",
+      "kills": 14,
+      "deaths": 0,
+      "id": 63
+    },
+    {
+      "nickname": "Player64",
+      "score": 1254,
+      "status": "Dead",
+      "kills": 17,
+      "deaths": 0,
+      "id": 64
+    },
+    {
+      "nickname": "Player65",
+      "score": 1113,
+      "status": "Alive",
+      "kills": 19,
+      "deaths": 8,
+      "id": 65
+    },
+    {
+      "nickname": "Player66",
+      "score": 1139,
+      "status": "Alive",
+      "kills": 8,
+      "deaths": 1,
+      "id": 66
+    },
+    {
+      "nickname": "Player67",
+      "score": 1242,
+      "status": "Alive",
+      "kills": 15,
+      "deaths": 2,
+      "id": 67
+    },
+    {
+      "nickname": "Player68",
+      "score": 1554,
+      "status": "Dead",
+      "kills": 5,
+      "deaths": 6,
+      "id": 68
+    },
+    {
+      "nickname": "Player69",
+      "score": 1347,
+      "status": "Alive",
+      "kills": 8,
+      "deaths": 5,
+      "id": 69
+    },
+    {
+      "nickname": "Player70",
+      "score": 1150,
+      "status": "Dead",
+      "kills": 19,
+      "deaths": 8,
+      "id": 70
+    },
+    {
+      "nickname": "Player71",
+      "score": 1250,
+      "status": "Dead",
+      "kills": 1,
+      "deaths": 6,
+      "id": 71
+    },
+    {
+      "nickname": "Player72",
+      "score": 2008,
+      "status": "Dead",
+      "kills": 0,
+      "deaths": 1,
+      "id": 72
+    },
+    {
+      "nickname": "Player73",
+      "score": 2197,
+      "status": "Dead",
+      "kills": 13,
+      "deaths": 9,
+      "id": 73
+    },
+    {
+      "nickname": "Player74",
+      "score": 1782,
+      "status": "Alive",
+      "kills": 6,
+      "deaths": 8,
+      "id": 74
+    },
+    {
+      "nickname": "Player75",
+      "score": 1594,
+      "status": "Alive",
+      "kills": 0,
+      "deaths": 9,
+      "id": 75
+    },
+    {
+      "nickname": "Player76",
+      "score": 2490,
+      "status": "Alive",
+      "kills": 15,
+      "deaths": 8,
+      "id": 76
+    },
+    {
+      "nickname": "Player77",
+      "score": 2401,
+      "status": "Dead",
+      "kills": 13,
+      "deaths": 7,
+      "id": 77
+    },
+    {
+      "nickname": "Player78",
+      "score": 1926,
+      "status": "Alive",
+      "kills": 18,
+      "deaths": 0,
+      "id": 78
+    },
+    {
+      "nickname": "Player79",
+      "score": 2433,
+      "status": "Dead",
+      "kills": 0,
+      "deaths": 1,
+      "id": 79
+    },
+    {
+      "nickname": "Player80",
+      "score": 1816,
+      "status": "Dead",
+      "kills": 19,
+      "deaths": 9,
+      "id": 80
+    },
+    {
+      "nickname": "Player81",
+      "score": 2887,
+      "status": "Dead",
+      "kills": 0,
+      "deaths": 5,
+      "id": 81
+    },
+    {
+      "nickname": "Player82",
+      "score": 1025,
+      "status": "Alive",
+      "kills": 17,
+      "deaths": 3,
+      "id": 82
+    },
+    {
+      "nickname": "Player83",
+      "score": 2932,
+      "status": "Alive",
+      "kills": 17,
+      "deaths": 9,
+      "id": 83
+    },
+    {
+      "nickname": "Player84",
+      "score": 2353,
+      "status": "Alive",
+      "kills": 6,
+      "deaths": 1,
+      "id": 84
+    },
+    {
+      "nickname": "Player85",
+      "score": 2580,
+      "status": "Dead",
+      "kills": 7,
+      "deaths": 9,
+      "id": 85
+    },
+    {
+      "nickname": "Player86",
+      "score": 2116,
+      "status": "Alive",
+      "kills": 5,
+      "deaths": 4,
+      "id": 86
+    },
+    {
+      "nickname": "Player87",
+      "score": 2827,
+      "status": "Dead",
+      "kills": 0,
+      "deaths": 7,
+      "id": 87
+    },
+    {
+      "nickname": "Player88",
+      "score": 2549,
+      "status": "Alive",
+      "kills": 0,
+      "deaths": 7,
+      "id": 88
+    },
+    {
+      "nickname": "Player89",
+      "score": 1044,
+      "status": "Alive",
+      "kills": 15,
+      "deaths": 0,
+      "id": 89
+    },
+    {
+      "nickname": "Player90",
+      "score": 2233,
+      "status": "Dead",
+      "kills": 15,
+      "deaths": 2,
+      "id": 90
+    },
+    {
+      "nickname": "Player91",
+      "score": 1063,
+      "status": "Dead",
+      "kills": 16,
+      "deaths": 1,
+      "id": 91
+    },
+    {
+      "nickname": "Player92",
+      "score": 1863,
+      "status": "Alive",
+      "kills": 6,
+      "deaths": 1,
+      "id": 92
+    },
+    {
+      "nickname": "Player93",
+      "score": 1099,
+      "status": "Dead",
+      "kills": 11,
+      "deaths": 9,
+      "id": 93
+    },
+    {
+      "nickname": "Player94",
+      "score": 1064,
+      "status": "Alive",
+      "kills": 18,
+      "deaths": 5,
+      "id": 94
+    },
+    {
+      "nickname": "Player95",
+      "score": 1380,
+      "status": "Alive",
+      "kills": 4,
+      "deaths": 6,
+      "id": 95
+    },
+    {
+      "nickname": "Player96",
+      "score": 1329,
+      "status": "Dead",
+      "kills": 15,
+      "deaths": 7,
+      "id": 96
+    },
+    {
+      "nickname": "Player97",
+      "score": 2251,
+      "status": "Dead",
+      "kills": 15,
+      "deaths": 9,
+      "id": 97
+    },
+    {
+      "nickname": "Player98",
+      "score": 1564,
+      "status": "Alive",
+      "kills": 8,
+      "deaths": 0,
+      "id": 98
+    },
+    {
+      "nickname": "Player99",
+      "score": 1881,
+      "status": "Dead",
+      "kills": 15,
+      "deaths": 7,
+      "id": 99
+    },
+    {
+      "nickname": "Player100",
+      "score": 1874,
+      "status": "Dead",
+      "kills": 13,
+      "deaths": 3,
+      "id": 100
+    }
+  ]}
+}
